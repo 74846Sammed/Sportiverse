@@ -1,0 +1,28 @@
+.teacher-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+  }
+  
+  .profile-border {
+    border: 2px solid #000;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-photo {
+    width: 200px;
+    height: 250px;
+    /* border-radius: 70%; */
+    margin-right: 20px;
+  }
+  
+  .profile-details {
+    text-align: left;
+  }
+  
+  /* Add additional styles as needed */
+  
